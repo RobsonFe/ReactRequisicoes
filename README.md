@@ -15,7 +15,6 @@ O objetivo principal deste projeto é fornecer uma estrutura inicial para trabal
 
 - Configuração de requisições HTTP
 - Exemplo de consumo de API REST
-- [Outras funcionalidades]
 
 ## Como Usar
 
