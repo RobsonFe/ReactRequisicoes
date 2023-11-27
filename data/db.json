@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computador",
+      "price": 3000
+    },
+    {
+      "id": 2,
+      "name": "Playstation 5",
+      "price": 3500
+    },
+    {
+      "id": 3,
+      "name": "Notebook",
+      "price": 2500
+    },
+    {
+      "id": 4,
+      "name": "SSD",
+      "price": 250
+    },
+    {
+      "id": 5,
+      "name": "Monitor Gamer",
+      "price": 700
+    },
+    {
+      "name": "Mouse",
+      "price": "60",
+      "id": 6
+    },
+    {
+      "name": "TV LCD 32",
+      "price": "900",
+      "id": 7
+    },
+    {
+      "name": "Playstation 4",
+      "price": "2500",
+      "id": 8
+    },
+    {
+      "name": "Impressora ",
+      "price": "350",
+      "id": 9
+    },
+    {
+      "name": "Cabo de Rede",
+      "price": "20",
+      "id": 10
+    },
+    {
+      "name": "HDMI",
+      "price": "15",
+      "id": 11
+    },
+    {
+      "name": "Playstation 3",
+      "price": "800",
+      "id": 14
+    },
+    {
+      "name": "Playstation 2",
+      "price": "300",
+      "id": 15
+    }
+  ]
+}
