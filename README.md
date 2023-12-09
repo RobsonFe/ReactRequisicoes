@@ -21,4 +21,4 @@ O objetivo principal deste projeto é fornecer uma estrutura inicial para trabal
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/RobsonFe/ReactRequisicoes.git
